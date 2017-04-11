@@ -2219,10 +2219,9 @@
     };
     $.syskins={
         changeSk:function () {
-        
+            
         },
         init:function () {
-
             $('.changeSk').on('click', $.syskins.changeSk);
         }
 

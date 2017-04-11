@@ -880,7 +880,7 @@
                     "F_EnCode": "RoleManage",
                     "F_FullName": "订单列表",
                     "F_Icon": "fa fa-paw",
-                    "F_UrlAddress": "/BaseManage/Role/Index",
+                    "F_UrlAddress": "sale-entry.html",
                     "F_Target": "iframe",
                     "F_IsMenu": 1,
                     "F_AllowExpand": 1,
